@@ -1,6 +1,6 @@
 # EntryLevel-Education-for-all
 
-# Donor Data Analysis Project
+## Donor Data Analysis Project
 
 ## Table of Contents
 - [Introduction](#introduction)
